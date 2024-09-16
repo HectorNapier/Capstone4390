@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 1\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {}
+    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Assignmet 1 tutorial\\Capstone4390\\PrimeService\\PrimeService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 1\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj": {
+    "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Assignmet 1 tutorial\\Capstone4390\\PrimeService\\PrimeService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 1\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Assignmet 1 tutorial\\Capstone4390\\PrimeService\\PrimeService.csproj",
         "projectName": "PrimeService",
-        "projectPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 1\\unit-testing-using-dotnet-test\\PrimeService\\PrimeService.csproj",
+        "projectPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Assignmet 1 tutorial\\Capstone4390\\PrimeService\\PrimeService.csproj",
         "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Tutorial 1\\unit-testing-using-dotnet-test\\PrimeService\\obj\\",
+        "outputPath": "C:\\Users\\Hector\\Dropbox\\School\\2024\\Fall 2024\\Capstone CIDM 4390\\Assignment 2\\Assignmet 1 tutorial\\Capstone4390\\PrimeService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config"

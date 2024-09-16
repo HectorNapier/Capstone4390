@@ -9,3 +9,15 @@ C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Tu
 C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Tutorial 1\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
 C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Tutorial 1\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\PrimeService.pdb
 C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Tutorial 1\unit-testing-using-dotnet-test\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\bin\Debug\net8.0\PrimeService.deps.json
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\bin\Debug\net8.0\PrimeService.dll
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\bin\Debug\net8.0\PrimeService.pdb
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.AssemblyInfo.cs
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.sourcelink.json
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.dll
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\refint\PrimeService.dll
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\PrimeService.pdb
+C:\Users\Hector\Dropbox\School\2024\Fall 2024\Capstone CIDM 4390\Assignment 2\Assignmet 1 tutorial\Capstone4390\PrimeService\obj\Debug\net8.0\ref\PrimeService.dll
